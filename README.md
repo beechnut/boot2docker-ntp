@@ -1,6 +1,6 @@
 # boot2docker-ntp
 
-Re-sync boot2docker's system clock so you can
+Re-sync boot2docker's system clock.
 
 ### Problem:
 
