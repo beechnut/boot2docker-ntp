@@ -2,7 +2,8 @@
 
 # 
 # Reset the time on your Boot2Docker VM, which can fall out of
-# sync when your Mac goes into standby mode.
+# sync when your Mac goes into standby mode. Basically a wrapper for
+# [cpuguy83](https://github.com/cpuguy83)'s NTP update container.
 # 
 # by Matt Cloyd aka [beechnut](https://github.com/beechnut)
 # Based on [boot2docker-fwd](https://gist.github.com/deinspanjer/9215467)
